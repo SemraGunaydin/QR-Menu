@@ -1,0 +1,84 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "title": "Buttermilk Pancakes",
+        "price": 11,
+        "category": "breakfast",
+        "img": "./images/item-1.jpeg",
+        "desc": "The flavor of milk shines in our buttermilk pancakes! Start your day with our silky-smooth pancakes and add sweetness to your morning."
+      },
+      {
+        "id": 2,
+        "title": "Diner Double Burger",
+        "category": "lunch",
+        "price": 13.99,
+        "img": "./images/item-2.jpeg",
+        "desc": "A diner-style double burger, crafted for a hearty lunch! Perfectly juicy and packed with flavor to satisfy your cravings."
+      },
+      {
+        "id": 3,
+        "title": "Godzilla Milkshake",
+        "category": "shakes",
+        "price": 6.99,
+        "img": "./images/item-3.webp",
+        "desc": "A legendary treat awaits! Treat yourself to our Godzilla Milkshake and take a sweet, creamy break."
+      },
+      {
+        "id": 4,
+        "title": "Countryside Breakfast Platter",
+        "category": "breakfast",
+        "price": 20.99,
+        "img": "./images/item-4.jpeg",
+        "desc": "The rustic flavors of a countryside breakfast are now here! Made with all-natural ingredients, this platter invites you to a delicious feast."
+      },
+      {
+        "id": 5,
+        "title": "Egg Attack",
+        "category": "lunch",
+        "price": 22.99,
+        "img": "./images/item-5.jpeg",
+        "desc": "A hearty lunch loaded with eggs, fresh veggies, and savory toppings. Dive into this protein-packed delight!"
+      },
+      {
+        "id": 6,
+        "title": "Oreo Dream",
+        "category": "shakes",
+        "price": 18.99,
+        "img": "./images/item-6.jpeg",
+        "desc": "A dream come true for Oreo lovers! Our Oreo Dream milkshake transports you to a world of irresistible sweetness."
+      },
+      {
+        "id": 7,
+        "title": "Bacon Overflow",
+        "category": "breakfast",
+        "price": 8.99,
+        "img": "./images/item-7.jpeg",
+        "desc": "A breakfast essential for bacon enthusiasts! Crispy, freshly fried bacon and other delights make this the perfect way to start your day."
+      },
+      {
+        "id": 8,
+        "title": "American Classic",
+        "category": "lunch",
+        "price": 12.99,
+        "img": "./images/item-8.jpeg",
+        "desc": "A classic American lunch with timeless flavors. Enjoy this satisfying meal at an unbeatable price!"
+      },
+      {
+        "id": 9,
+        "title": "Quarantine Buddy",
+        "category": "shakes",
+        "price": 16.99,
+        "img": "./images/item-9.jpeg",
+        "desc": "The perfect milkshake companion for boring quarantine days! Sweet, creamy, and ready to lift your mood."
+      },
+      {
+        "id": 10,
+        "title": "Bison Steak",
+        "category": "lunch",
+        "price": 22.99,
+        "img": "./images/item-10.jpeg",
+        "desc": "Savor the unique taste of bison meat, seasoned with special spices and sauces. A premium choice for dinner!"
+      }
+    ]
+  }
