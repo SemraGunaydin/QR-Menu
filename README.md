@@ -14,8 +14,19 @@ With a responsive design, it ensures an optimal experience across all devices.
 - User-Friendly Interface: Clean and intuitive UI for effortless navigation.
 - Fully Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
-# Technologies Used 🎨
-- HTML5
-- CSS (Responsive Design)
-- JavaScript
-- API Integration
+# 🧰 Technologies Used 🛠️
+- HTML5: For structuring the website.
+- CSS: For styling and responsive design.
+- JavaScript (JS): For dynamic functionality and interactivity.
+- API: For fetching product data and managing backend operations.
+
+# 📸 Preview 🎞️🎬
+![QR-MENU](https://github.com/user-attachments/assets/b2fe9e1e-bc68-4c54-a48b-9639f96ae9c0)
+
+
+
+
+# 📧 Contact
+semra.gunaydinwork@outlook.com
+
+Enjoy your meal! 🥗🥙🥪🥤🍽🍳🍽
